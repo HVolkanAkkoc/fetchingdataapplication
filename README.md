@@ -1,1 +1,1 @@
-PLC Otomasyon Projelerinde, veri takibi ve güvenliği için sahadan gelen verilerin sadece bilinen kullanıcılarla paylaşılmasını sağlar ayrıca MSSQL uygulamasını aradan çıkartarak operatör kolaylıkla PLC verilerinin detaylarına erişebilir.
+PLC Otomasyon Projelerinde, veri takibi ve güvenliği için sahadan gelen verilerin sadece bilinen kullanıcılarla paylaşılmasını sağlar ayrıca MSSQL uygulamasını aradan çıkarttığı için operatör kolaylıkla PLC verilerinin detaylarına erişebilir.
